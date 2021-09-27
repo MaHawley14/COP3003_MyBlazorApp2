@@ -1,5 +1,6 @@
 # Matthew Hawley
-https://brave-tree-02f4fbe10.azurestaticapps.net/
+Instructions: https://sites.google.com/site/profvanselow/programming/languages/c_1/blazor
+App: https://brave-tree-02f4fbe10.azurestaticapps.net/
 
 ![MyBlazorApp2](https://user-images.githubusercontent.com/62121542/134992332-13258033-ff8e-40a1-ac19-19adcc7c3798.png)
 
