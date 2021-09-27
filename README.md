@@ -1,5 +1,6 @@
 # Matthew Hawley
 
+![MyBlazorApp2](https://user-images.githubusercontent.com/62121542/134992332-13258033-ff8e-40a1-ac19-19adcc7c3798.png)
 
 # Modify a project in Visual Studio
 Prerequisite: a project on GitHub that runs with Azure
